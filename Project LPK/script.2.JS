@@ -84,7 +84,6 @@ const skinProblems = {
         ]
     }
 };
-
 function formatResponse(response) {
     const sections = response.split('\n\n');
     let formattedResponse = '';
